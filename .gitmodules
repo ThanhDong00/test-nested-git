@@ -1,0 +1,3 @@
+[submodule "sub-git1"]
+	path = sub-git1
+	url = https://github.com/ThanhDong00/test-nested-git-sub-git-.git
